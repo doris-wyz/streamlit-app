@@ -73,7 +73,6 @@ patsy==0.5.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow
-pkg_resources
 prometheus-client==0.11.0
 prompt-toolkit==3.0.20
 protobuf==3.17.3
